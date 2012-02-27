@@ -1,0 +1,6 @@
+build
+.depend
+/defs.mk
+kern/compile/
+user/testbin/randcall/calls.c
+
